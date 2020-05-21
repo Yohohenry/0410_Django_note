@@ -20,8 +20,8 @@ client (發出請求 —>) web server(發出請求 —> )database<br>
 * 易維護
 * 降低複雜度
 <br>
+
 ![image](https://github.com/Yohohenry/Django_note/blob/master/MTV.png)
-<br>
 ### 使用虛擬環境
 source py3env/bin/activate 啟用，若要關閉則是直接deactivate
 
