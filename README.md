@@ -56,7 +56,7 @@ blog/templates/blog/post_list.html
 將模板導入即可使寫死的網頁成功顯示在/blog路徑
 
 ### django ORM 與資料庫對話
-![image](https://github.com/Yohohenry/Django_note/query.png)
+![image](https://github.com/Yohohenry/Django_note/blob/master/query.png)
 * {% for post in posts %}一個for 迴圈取posts裡所有的post & {{ }}  Tags: {% %}, 處理邏輯 Variables: {{}} , 取值用
 ### static 資料夾 -裝飾網頁
 使用bootstrap免費模板
