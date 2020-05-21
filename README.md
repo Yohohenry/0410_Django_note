@@ -3,7 +3,7 @@ teacher: 何振豪&nbsp;jojotenya@gmail.com
 
 ### 網頁運作原理
 client (發出請求 —>) web server(發出請求 —> )database<br>	
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(<— 返回結果)&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(<— 回傳資料)
+&emsp;&emsp;&emsp;&emsp;(<— 返回結果)&emsp;&emsp;&emsp;&emsp;&emsp;(<— 回傳資料)
 
 ### Django 基本介紹
 許多大公司都使用Django，且歷史悠久市場佔有率最高，提供total solution 給初學者了解網站的運作
