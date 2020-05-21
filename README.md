@@ -20,7 +20,8 @@ client (發出請求 —>) web server(發出請求 —> )database<br>
 * 易維護
 * 降低複雜度
 <br>
-![Alt text](/Users/mengjulin/Desktop/AI application/Django_note/Django  FL 611 2P 1.png)
+![Alt text](https://github.com/Yohohenry/Django_note/raw/master/MTV.png)
+<br>
 ### 使用虛擬環境
 source py3env/bin/activate 啟用，若要關閉則是直接deactivate
 
@@ -55,7 +56,7 @@ blog/templates/blog/post_list.html
 將模板導入即可使寫死的網頁成功顯示在/blog路徑
 
 ### django ORM 與資料庫對話
-![Alt text](/Users/mengjulin/Desktop/AI application/Django_note/query.png)
+![Alt text](https://github.com/Yohohenry/Django_note/raw/master/query.png)
 * {% for post in posts %}一個for 迴圈取posts裡所有的post & {{ }}  Tags: {% %}, 處理邏輯 Variables: {{}} , 取值用
 ### static 資料夾 -裝飾網頁
 使用bootstrap免費模板
